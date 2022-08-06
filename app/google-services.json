@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "870459845011",
+    "project_id": "gezmanya-b729f",
+    "storage_bucket": "gezmanya-b729f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870459845011:android:f4d7d9df91881d6cbba066",
+        "android_client_info": {
+          "package_name": "com.gezmanya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870459845011-uh922didagu79pob80fr4ihgdvb598bv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gezmanya",
+            "certificate_hash": "3abac70cad66aef8231524b1901bef205e4d974d"
+          }
+        },
+        {
+          "client_id": "870459845011-i5b46nstuvqami843v3f3at101n24bla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlU0tUD3bg9GXtfY-9EAANHBF-aGgLvEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870459845011-i5b46nstuvqami843v3f3at101n24bla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
